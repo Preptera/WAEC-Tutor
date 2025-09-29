@@ -25,6 +25,7 @@ WAEC AI Tutor provides a clear path to success with a powerful set of features d
 ## 👥 Meet the Team
 
 | **Name** | **Role** | 
+|---|---|
 | Chris Olajide | AI & Backend | 
 | Ejiro Frances | Frontend | 
 | Ponji Nanpon | UI/UX Design | 
